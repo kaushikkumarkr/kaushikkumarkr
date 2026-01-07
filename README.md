@@ -1,4 +1,4 @@
-# Kaushik Kumar 👋
+# Hi, I am Kaushik Kumar 👋
 **Agentic AI / Data & ML Engineer** • MS CS @ NJIT • Open to Work (2026)
 
 I build **production-grade data + ML systems** and **agentic AI copilots** that connect to real tools (databases, filings, APIs) and return **auditable, citation-first** outputs.  
