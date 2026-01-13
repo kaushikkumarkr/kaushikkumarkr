@@ -18,5 +18,23 @@ My focus is hands-on: reproducible pipelines, reliable evaluation, and clean arc
 - **Reusable templates:** “clone → install → run” starter kits with clean repo structure and reproducible environments.
 
 ---
+## Tech stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,go,js,gcp,aws,docker,kubernetes,terraform,githubactions,fastapi,tensorflow,pytorch,postgres,elasticsearch&perline=8" />
+</p>
+
+<table>
+  <tr>
+    <th align="left">Core</th>
+    <th align="left">Cloud & DevOps</th>
+    <th align="left">MLOps / LLMOps</th>
+    <th align="left">Data & apps</th>
+  </tr>
+  <tr>
+    <td>Python • C++ • Go • JavaScript</td>
+    <td>GCP (Vertex AI, BigQuery, Dataflow, Cloud Run, Pub/Sub) • AWS</td>
+    <td>Vertex AI Pipelines • MLflow • Kubeflow • LangChain • LlamaIndex • Vector DBs</td>
+    <td>SQL • Looker • Tableau • Power BI • Pandas • FastAPI • Streamlit</td>
+  </tr>
 ##
