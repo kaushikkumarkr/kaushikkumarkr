@@ -32,9 +32,9 @@ My focus is hands-on: reproducible pipelines, reliable evaluation, and clean arc
     <th align="left">Data & apps</th>
   </tr>
   <tr>
-    <td>Python • C++ • Go • JavaScript</td>
+    <td>Python • Java • C++ • JavaScript</td>
     <td>GCP (Vertex AI, BigQuery, Dataflow, Cloud Run, Pub/Sub) • AWS</td>
-    <td>Vertex AI Pipelines • MLflow • Kubeflow • LangChain • LlamaIndex • Vector DBs</td>
+    <td> MLflow • Kubeflow • LangChain • CrewAI • Vector DBs • Dagster • dbt</td>
     <td>SQL • Looker • Tableau • Power BI • Pandas • FastAPI • Streamlit</td>
   </tr>
 </table>
