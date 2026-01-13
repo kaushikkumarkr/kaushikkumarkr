@@ -21,7 +21,7 @@ My focus is hands-on: reproducible pipelines, reliable evaluation, and clean arc
 ## Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,go,js,gcp,aws,docker,kubernetes,terraform,githubactions,fastapi,tensorflow,pytorch,postgres,elasticsearch&perline=8" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,js,gcp,aws,docker,kubernetes,terraform,githubactions,fastapi,tensorflow,pytorch,postgres,gradle,idea,mysql,obsidian,r,supabase,vercel,&perline=8" />
 </p>
 
 <table>
