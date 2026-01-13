@@ -37,6 +37,8 @@ My focus is hands-on: reproducible pipelines, reliable evaluation, and clean arc
     <td>Vertex AI Pipelines • MLflow • Kubeflow • LangChain • LlamaIndex • Vector DBs</td>
     <td>SQL • Looker • Tableau • Power BI • Pandas • FastAPI • Streamlit</td>
   </tr>
+</table>
+
 
 ## Connect
 
@@ -52,4 +54,3 @@ My focus is hands-on: reproducible pipelines, reliable evaluation, and clean arc
 <p align="center">
   <i>If you want to scale AI adoption, automate high-impact workflows, or get measurable results with GenAI + ML — let’s connect.</i>
 </p>
-##
