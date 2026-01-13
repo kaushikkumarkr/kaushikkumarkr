@@ -37,4 +37,19 @@ My focus is hands-on: reproducible pipelines, reliable evaluation, and clean arc
     <td>Vertex AI Pipelines • MLflow • Kubeflow • LangChain • LlamaIndex • Vector DBs</td>
     <td>SQL • Looker • Tableau • Power BI • Pandas • FastAPI • Streamlit</td>
   </tr>
+
+## Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/k-r-kaushik-kumar-967ba9215/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:krkaushikkumar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-444444?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>If you want to scale AI adoption, automate high-impact workflows, or get measurable results with GenAI + ML — let’s connect.</i>
+</p>
 ##
